@@ -1,0 +1,20 @@
+package com.sis.constanta;
+
+public enum ResponseMessageConst {
+    AUTH_IS_REQUIRED,
+    FIELD_IS_REQUIRED,
+    EMAIL_INVALID,
+    FIELD_MIN,
+    FIELD_CONFIRM,
+    WRONG_PASSWORD,
+    EMAIL_NOT_FOUND,
+    EMAIL_IS_EXIST,
+    ADD_SUCCESS,
+    ADD_FAILED,
+    DELETE_SUCCESS,
+    DELETE_FAILED,
+    UPDATE_SUCCESS,
+    UPDATE_FAILED,
+    GET_SUCCESS,
+    GET_FAILED,
+}
